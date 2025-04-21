@@ -1,0 +1,8 @@
+# Ignore dataset and venv
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+telco_data.csv
+venv/
+*.zip
+*.tar.gz
+*.ipynb_checkpoints
+__pycache__/
