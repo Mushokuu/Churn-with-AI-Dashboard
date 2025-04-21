@@ -64,6 +64,3 @@ Feel free to fork the repository and create pull requests with improvements or b
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Thank you to the authors of the libraries used in this project.
